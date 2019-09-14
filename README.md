@@ -1,2 +1,2 @@
-# rsschool-cv
-Initial task for markdown studying
+# Angelina Pobyvanets CV
+https://lina-malina.github.io/rsschool-cv/cv
